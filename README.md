@@ -1,3 +1,13 @@
+## Optimized Image
+
+usahakan menggunakan svg
+
+optimasi svg dapat dengan https://jakearchibald.github.io/svgomg/
+
+kalau format lain dengan https://tinyjpg.com/
+
+atau adobe phothostop save as terus turunkan resolusinya
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
