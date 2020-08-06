@@ -10,6 +10,12 @@ atau adobe phothostop save as terus turunkan resolusinya
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Theming
+
+konfigurasi theme atau style guide
+
+https://material-ui.com/customization/theming/
+
 ## Available Scripts
 
 In the project directory, you can run:
